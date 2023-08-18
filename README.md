@@ -4,7 +4,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ### Built With
 
+- [MongoDB](https://www.mongodb.com/)
+- [Expressjs](https://expressjs.com/)
 - [React](https://reactjs.org/)
 - [Nodejs](https://nodejs.org/)
-- [Expressjs](https://expressjs.com/)
-
